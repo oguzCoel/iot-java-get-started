@@ -1,0 +1,8 @@
+Device id: myFirstJavaDevice
+Device key: QFh6SLy8Onr1Je4ALxCGwQ==
+
+Device id: mySecondJavaDevice
+Device key: CvElP2ae6KEj0sWBsfy8dg==
+
+
+

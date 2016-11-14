@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/create-device-identity/create-device-identity.iml" filepath="$PROJECT_DIR$/create-device-identity/create-device-identity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-java-get-started.iml" filepath="$PROJECT_DIR$/iot-java-get-started.iml" />
+      <module fileurl="file://$PROJECT_DIR$/read-d2c-messages/read-d2c-messages.iml" filepath="$PROJECT_DIR$/read-d2c-messages/read-d2c-messages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simulated-device/simulated-device.iml" filepath="$PROJECT_DIR$/simulated-device/simulated-device.iml" />
+      <module fileurl="file://$PROJECT_DIR$/warm-up/warm-up.iml" filepath="$PROJECT_DIR$/warm-up/warm-up.iml" />
+    </modules>
+  </component>
+</project>
